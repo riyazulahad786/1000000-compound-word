@@ -38,5 +38,7 @@ Input Words: [
 
 
 Unique Longest Compounded Word: abbreviations
+
 Unique Second Longest Compounded Word: abandonments
+
 Time taken (in milliseconds): 0.5638999938964844
